@@ -1,7 +1,7 @@
 <h1>7-zip</h1>
 
 
-<table class="wrapped"><colgroup>
+<table class="wrapped">
   <tbody>
     <tr>
       <th>Beschreibung</th>
