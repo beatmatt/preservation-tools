@@ -5,13 +5,13 @@
 - [7-zip](./7-zip.md)
 - [Bagger](./bagger.md)
 - [BitCurator](./bitcurator.md)
-- Bulk Rename Utility
-- CiderPress
-- Dateilisten Schreiber / Filelist Creator
-- DirMaster
-- DirPrintOk
-- DiskXS
-- Docuteam Packer
+- [Bulk Rename Utility](./bulkrenameutility.md)
+- [CiderPress](./ciderpress.md)
+- [Fileliste Creator / Dateilisten Schreiber](./filelistcreator.md)
+- [DirMaster](./dirmaster.md)
+- [DirPrintOk](./dirprintok.md)
+- [DiskXS](./diskxs.md)
+- [Docuteam Packer](./docuteampacker.md)
 - Exactly
 - FileList
 - FTK Imager
