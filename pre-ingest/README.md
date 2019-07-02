@@ -12,14 +12,12 @@
 - [DirPrintOk](./dirprintok.md)
 - [DiskXS](./diskxs.md)
 - [Docuteam Packer](./docuteampacker.md)
-- Exactly
-- FileList
-- FTK Imager
-- Inventarisierungstabellenmakro
-- Omniflop Floppy Disk Transfer
-- RODA-in
-- Scrape
-- TreeSize Professional
-- WinCatalog
-- WinRAR
-- xmount
+- [Exactly](./exactly.md)
+- [FileList](./filelist.md)
+- [FTK Imager](./ftkimager.md)
+- [Omniflop Floppy Disk Transfer](./omniflop.md)
+- [RODA-in](./rodain.md)
+- [TreeSize Professional](./treesizeprofessional.md)
+- [WinCatalog](./wincatalog.md)
+- [WinRAR](./winrar.md)
+- [xmount](./xmount.md)
