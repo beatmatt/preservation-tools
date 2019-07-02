@@ -21,3 +21,8 @@
 - [WinCatalog](./wincatalog.md)
 - [WinRAR](./winrar.md)
 - [xmount](./xmount.md)
+
+# Additional Notes
+For internal uses, there are also two additional tools for metadata / file attribute extraction:
+- [VBA-Makro for Microsoft Excel](/data-inventory)
+- scrape: a script for MacOS, written by William Thorne for a special use case with IMG- and DMG-Images
