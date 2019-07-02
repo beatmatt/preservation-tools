@@ -3,7 +3,7 @@
 | Category | Evaluation |
 | --- | --- |
 | **Description**  | ... |
-| **Operation System**  | ...  |
+| **Operation System**  | Windows, Mac |
 | **Application**  | ...  |
 | **File Format** | ... |
 | **Experience** | ... |
