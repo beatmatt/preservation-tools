@@ -2,25 +2,25 @@
 ...
 
 # Reviewed Tools
-- AntiTwin
-- Bad Peggy
-- CDCheck
-- DataAccessioner
-- DROID
-- DupeGuru
-- FIDO
-- FITS
-- Fixity
-- Hashmyfiles
-- IrfanView
-- Jacksum
-- JHOVE
-- KOST Val
-- MD5summer
-- MDQC
-- MediaConch
-- MediaInfo
-- QCTools
-- Quickhash
-- Siegfried
-- veraPDF
+- [AntiTwin](./antitwin.md)
+- [Bad Peggy](./badpeggy.md)
+- [CDCheck](./cdcheck.md)
+- [DataAccessioner](./dataaccessioner.md)
+- [DROID](./droid.md)
+- [DupeGuru](./dupeguru.md)
+- [FIDO](./fido.md)
+- [FITS](./fits.md)
+- [Fixity](./fixity.md)
+- [Hashmyfiles](./hashmyfiles.md)
+- [IrfanView](./irfanview.md)
+- [Jacksum](./jacksum.md)
+- [JHOVE](./jhove.md)
+- [KOST Val](./kostval.md)
+- [MD5summer](./md5summer.md)
+- [MDQC](./mdqc.md)
+- [MediaConch](./mediaconch.md)
+- [MediaInfo](./mediainfo.md)
+- [QCTools](./qctools.md)
+- [Quickhash](./quickhash.md)
+- [Siegfried](./siegfried.md)
+- [veraPDF](./verapdf.md)
