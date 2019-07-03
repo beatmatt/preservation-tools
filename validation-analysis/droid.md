@@ -4,7 +4,7 @@
 | --- | --- |
 | **Description**  | ... |
 | **Operation System**  | ...  |
-| **Application**  | Validation |
+| **Application**  | Fileformat identification, Validation |
 | **File Format** | - |
 | **Experience** | Can reach its limits when it comes to identifying older file formats such as WordStar, WordPerfect, MS-Word, etc. |
 | **Licence** | Open Source |
