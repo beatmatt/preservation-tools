@@ -2,25 +2,25 @@
 ...
 
 # Reviewed Tools
-- Audacity
-- AVI MetaEdit
-- BWF MetaEdit
-- database preservation toolkit (E-ARK)
-- ffmpeg
-- GStreamer
-- HandBrake
-- Heritrix
-- ImageMagick
-- jpylyzer
-- KOST Simy
-- Lame
-- MPEG Streamclip
-- PeDALS Email Extractor
-- PST to MBOX Converter
-- QPDF
-- SIARD Suite
-- ToolsGround Outlook Converter
-- VLC Media Player
-- WAIL
-- Wget
-- Xena
+- [Audacity](./audacity.md)
+- [AVI MetaEdit](./avimetaedit.md)
+- [BWF MetaEdit](./bwfmetaedit.md)
+- [database preservation toolkit (E-ARK)](./databasepreservationtoolkit.md)
+- [ffmpeg](./ffmpeg.md)
+- [GStreamer](./gstreamer.md)
+- [HandBrake](./handbrake.md)
+- [Heritrix](./heritrix.md)
+- [ImageMagick](./imagemagick.md)
+- [jpylyzer](./jpylyzer.md)
+- [KOST Simy](./kostsimy.md)
+- [Lame](./lame.md)
+- [MPEG Streamclip](./mpegstreamclip.md)
+- [PeDALS Email Extractor](./pedals.md)
+- [PST to MBOX Converter](./pstmboxconverter.md)
+- [QPDF](./qpdf.md)
+- [SIARD Suite](./siardsuite.md)
+- [ToolsGround Outlook Converter](./toolsground.md)
+- [VLC Media Player](./vlc.md)
+- [WAIL](./wail.md)
+- [Wget](./wget.md)
+- [Xena](./xena.md)
