@@ -3,6 +3,7 @@
 
 # Reviewed Tools
 - [7-zip](./7-zip.md)
+- [Autopsy](./autopsy.md)
 - [Bagger](./bagger.md)
 - [BitCurator](./bitcurator.md)
 - [Bulk Rename Utility](./bulkrenameutility.md)
