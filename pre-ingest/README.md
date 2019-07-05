@@ -18,6 +18,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 - [FTK Imager](./ftkimager.md)
 - [Manifest Maker](./manifestmaker.md)
 - [Omniflop Floppy Disk Transfer](./omniflop.md)
+- [Robocopy](./robocopy.md)
 - [RODA-in](./rodain.md)
 - [TreeSize Professional](./treesizeprofessional.md)
 - [WinCatalog](./wincatalog.md)
