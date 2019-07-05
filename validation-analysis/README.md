@@ -13,6 +13,7 @@
 - [FITS](./fits.md)
 - [Fixity](./fixity.md)
 - [Hashmyfiles](./hashmyfiles.md)
+- [IngestList](./ingestlist.md)
 - [IrfanView](./irfanview.md)
 - [Jacksum](./jacksum.md)
 - [JHOVE](./jhove.md)
