@@ -10,6 +10,7 @@ Tools for the migration of various file formats into current, long-term archivin
 - [GStreamer](./gstreamer.md)
 - [HandBrake](./handbrake.md)
 - [Heritrix](./heritrix.md)
+- [HTTrack](./httrack.md)
 - [ImageMagick](./imagemagick.md)
 - [jpylyzer](./jpylyzer.md)
 - [KOST Simy](./kostsimy.md)
