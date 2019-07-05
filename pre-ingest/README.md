@@ -15,6 +15,7 @@
 - [Exactly](./exactly.md)
 - [FileList](./filelist.md)
 - [FTK Imager](./ftkimager.md)
+- [Manifest Maker](./manifestmaker.md)
 - [Omniflop Floppy Disk Transfer](./omniflop.md)
 - [RODA-in](./rodain.md)
 - [TreeSize Professional](./treesizeprofessional.md)
