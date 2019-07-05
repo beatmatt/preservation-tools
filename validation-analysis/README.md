@@ -6,6 +6,7 @@ Tools for file and datacarrier analysis, file deduplication and metadata extract
 - [AntiTwin](./antitwin.md)
 - [Bad Peggy](./badpeggy.md)
 - [CDCheck](./cdcheck.md)
+- [CloneSpy](./clonespy.md)
 - [DataAccessioner](./dataaccessioner.md)
 - [DROID](./droid.md)
 - [DupeGuru](./dupeguru.md)
