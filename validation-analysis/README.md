@@ -2,6 +2,7 @@
 ...
 
 # Reviewed Tools
+- [Adobe Acrobat Professional](./adobeacrobat.md)
 - [AntiTwin](./antitwin.md)
 - [Bad Peggy](./badpeggy.md)
 - [CDCheck](./cdcheck.md)
