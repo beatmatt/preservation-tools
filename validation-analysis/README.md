@@ -1,5 +1,5 @@
 # Documentation
-...
+Tools for file and datacarrier analysis, file deduplication and metadata extraction, as well as for validation of specific file formats.
 
 # Reviewed Tools
 - [Adobe Acrobat Professional](./adobeacrobat.md)
