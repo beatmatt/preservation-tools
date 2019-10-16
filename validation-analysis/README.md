@@ -24,6 +24,7 @@ Tools for file and datacarrier analysis, file deduplication and metadata extract
 - [MediaConch](./mediaconch.md)
 - [MediaInfo](./mediainfo.md)
 - [Outlook PST File Viewer](./pstviewer.md)
+- [Passware Encryption Analyzer](./passware-encryption-analyzer.md)
 - [QCTools](./qctools.md)
 - [Quickhash](./quickhash.md)
 - [Siegfried](./siegfried.md)
