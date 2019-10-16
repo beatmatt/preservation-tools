@@ -14,6 +14,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 - [DiskXS](./diskxs.md)
 - [Docuteam Packer](./docuteampacker.md)
 - [Exactly](./exactly.md)
+- [ExifTool](.(exiftool.md)
 - [FileList](./filelist.md)
 - [FTK Imager](./ftkimager.md)
 - [Manifest Maker](./manifestmaker.md)
