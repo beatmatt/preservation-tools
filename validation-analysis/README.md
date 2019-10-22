@@ -28,6 +28,7 @@ Tools for file and datacarrier analysis, file deduplication and metadata extract
 - [QCTools](./qctools.md)
 - [Quickhash](./quickhash.md)
 - [Siegfried](./siegfried.md)
+- [Spreadsheet Complexity Analyser](./spreadsheet-complexity-analyser.md)
 - [Tika File Identifier](./tika-file-identifier.md)
 - [veraPDF](./verapdf.md)
 - [Vrenamer](./vrenamer.md)
