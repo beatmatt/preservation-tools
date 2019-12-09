@@ -18,7 +18,7 @@ Tools for file and datacarrier analysis, file deduplication and metadata extract
 - [FIDO](./fido.md)
 - [FITS](./fits.md)
 - [Fixity](./fixity.md)
-- [Fsum Frontend](.fsum.md)
+- [Fsum Frontend](./fsum.md)
 - [Hashmyfiles](./hashmyfiles.md)
 - [IngestList](./ingestlist.md)
 - [IrfanView](./irfanview.md)
