@@ -13,7 +13,6 @@ Tools for the migration of various file formats into current, long-term archivin
 - [HOPPLA](./hoppla.md)
 - [HTTrack](./httrack.md)
 - [ImageMagick](./imagemagick.md)
-- [jpylyzer](./jpylyzer.md)
 - [KOST Simy](./kostsimy.md)
 - [Lame](./lame.md)
 - [MPEG Streamclip](./mpegstreamclip.md)
