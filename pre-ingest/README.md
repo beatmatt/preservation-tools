@@ -6,6 +6,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 - [Autopsy](./autopsy.md)
 - [Bagger](./bagger.md)
 - [BitCurator](./bitcurator.md)
+- [BulkFileChanger](./bulkfilechanger.md)
 - [Bulk Rename Utility](./bulkrenameutility.md)
 - [CiderPress](./ciderpress.md)
 - [DirMaster](./dirmaster.md)
