@@ -9,6 +9,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 - [BulkFileChanger](./bulkfilechanger.md)
 - [Bulk Rename Utility](./bulkrenameutility.md)
 - [CiderPress](./ciderpress.md)
+- [DART](./dart.md)
 - [DirMaster](./dirmaster.md)
 - [DirPrintOk](./dirprintok.md)
 - [DiskXS](./diskxs.md)
