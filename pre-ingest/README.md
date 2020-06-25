@@ -18,6 +18,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 - [ExifTool](./exiftool.md)
 - [FileList](./filelist.md)
 - [Fileliste Creator / Dateilisten Schreiber](./filelistcreator.md)
+- [filewrangler](./filewrangler.md)
 - [FTK Imager](./ftkimager.md)
 - [Manifest Maker](./manifestmaker.md)
 - [Omniflop Floppy Disk Transfer](./omniflop.md)
