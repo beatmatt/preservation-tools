@@ -3,6 +3,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 
 # Reviewed Tools
 - [7-zip](./7-zip.md)
+- [Archive-BagIt](./archive-bagit.md)
 - [Autopsy](./autopsy.md)
 - [Bagger](./bagger.md)
 - [BitCurator](./bitcurator.md)
