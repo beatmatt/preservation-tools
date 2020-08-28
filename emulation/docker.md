@@ -4,8 +4,8 @@
 | --- | --- |
 | **Description**  | ... |
 | **Operation System**  | Windows, Mac |
-| **Application**  | ...  |
 | **File Format** | ... |
 | **Experience** | ... |
 | **Licence** | ... |
+| **COPTR** | - |
 | **Source** | https://www.docker.com |
