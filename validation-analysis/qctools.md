@@ -6,6 +6,6 @@
 | **Operation System** | Windows, Mac, Linux |
 | **File Format** | - |
 | **Experience** | ... |
-| **Licence** | GPL v.3 |
+| **Licence** | GNU GPL v.3 |
 | **COPTR** | https://coptr.digipres.org/QCTools |
 | **Source** | https://bavc.org/preserve-media/preservation-tools or https://mediaarea.net/QCTools or https://bavc.github.io/qctools/ |
