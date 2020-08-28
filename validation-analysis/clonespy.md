@@ -2,10 +2,11 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | File duplicate cleanup tool, depending on file size and checksum. |
+| **Description**  | File duplicate cleanup tool, which enables individual criteria (size, checksum, date) and deletion rules (preferred date, storage path etc). |
 | **Operation System**  | Windows  |
 | **Application**  | Deduplication  |
 | **File Format** | - |
 | **Experience** | ... |
-| **Licence** | Free |
+| **Licence** | Freeware |
+| **COPTR** | https://coptr.digipres.org/CloneSpy |
 | **Source** | http://clonespy.com/ |
