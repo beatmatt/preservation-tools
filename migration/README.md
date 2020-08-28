@@ -14,7 +14,6 @@ Tools for the migration of various file formats into current, long-term archivin
 - [HTTrack](./httrack.md)
 - [ImageMagick](./imagemagick.md)
 - [KOST Simy](./kostsimy.md)
-- [Lame](./lame.md)
 - [MPEG Streamclip](./mpegstreamclip.md)
 - [NetarchiveSuite](./netarchivesuite.md)
 - [PeDALS Email Extractor](./pedals.md)
