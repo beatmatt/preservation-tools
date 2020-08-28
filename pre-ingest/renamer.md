@@ -7,5 +7,6 @@
 | **Application**  | Metadata editing  |
 | **File Format** | - |
 | **Experience** | ... |
-| **Licence** | 	CC BY-NC-ND 3.0. Free lite version for non-commercial use, annual paid version for commercial use. |
+| **Licence** | CC BY-NC-ND 3.0. Free lite version for non-commercial use, annual paid version for commercial use. |
+| **COPTR** | https://coptr.digipres.org/ReNamer |
 | **Source** | 	https://www.den4b.com/products/renamer |
