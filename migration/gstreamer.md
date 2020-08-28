@@ -2,10 +2,10 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
-| **Operation System**  | ...  |
-| **Application**  | ... |
+| **Description** | ... |
+| **Operation System** | ... |
 | **File Format** | ... |
 | **Experience** | ... |
 | **Licence** | ... |
+| **COPTR** | - |
 | **Source** | https://gstreamer.freedesktop.org/ |
