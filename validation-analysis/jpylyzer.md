@@ -2,10 +2,10 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
-| **Operation System**  | ...  |
-| **Application**  | Image Migration |
+| **Description**  | JPEG2000 validator and properties extractor. |
+| **Operation System**  | Windows, Mac, Linux  |
 | **File Format** | JPEG2000 |
 | **Experience** | ... |
-| **Licence** | Free |
+| **Licence** | GNU GPL v.3 |
+| **COPTR** | https://coptr.digipres.org/Jpylyzer |
 | **Source** | http://jpylyzer.openpreservation.org/ |
