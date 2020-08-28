@@ -2,10 +2,10 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
-| **Operation System**  | ...  |
-| **Application**  | Deduplication |
-| **File Format** | ... |
+| **Description**  | A GUI-tool to find duplicate files in a system. |
+| **Operation System**  | Windows, Mac, Linux  |
+| **File Format** | - |
 | **Experience** | ... |
-| **Licence** | ... |
-| **Source** | https://dupeguru.voltaicideas.net/ |
+| **Licence** | GNU GPL v.3 |
+| **COPTR** | - |
+| **Source** | https://dupeguru.voltaicideas.net/ or https://github.com/arsenetar/dupeguru/ |
