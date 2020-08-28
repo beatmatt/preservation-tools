@@ -4,7 +4,7 @@
 | --- | --- |
 | **Description**  | Tool for automated visual comparison of BMP, JPEG, JP2, TIFF, GIF, PNG, and PDF/A respectively PDF files with an integrated JPEG or JP2 file. |
 | **Operation System**  | Windows  |
-| **Application**  | ... |
+| **Application**  | Analyzing |
 | **File Format** | See description. |
 | **Experience** | ... |
 | **Licence** | GPL v3 |
