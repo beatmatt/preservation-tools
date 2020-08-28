@@ -8,4 +8,5 @@
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | ... |
-| **Source** | https://eraser.sf.net |
+| **COPTR** | https://coptr.digipres.org/Eraser |
+| **Source** | https://eraser.heidi.ie/ |
