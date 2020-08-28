@@ -7,4 +7,5 @@
 | **File Format** | - |
 | **Experience** | No further development since 2010, but still considered useful in a DP blog article from 2017. |
 | **Licence** | Freeware (for private use) |
+| **COPTR** | - |
 | **Source** | http://www.joerg-rosenthal.com/en/antitwin/ |
