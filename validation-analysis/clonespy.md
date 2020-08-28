@@ -2,9 +2,8 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | File duplicate cleanup tool, which enables individual criteria (size, checksum, date) and deletion rules (preferred date, storage path etc). |
-| **Operation System**  | Windows  |
-| **Application**  | Deduplication  |
+| **Description** | File duplicate cleanup tool, which enables individual criteria (size, checksum, date) and deletion rules (preferred date, storage path etc). |
+| **Operation System** | Windows  |
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Freeware |
