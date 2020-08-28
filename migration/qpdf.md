@@ -8,4 +8,5 @@
 | **File Format** | PDF |
 | **Experience** | Light command line tool. A use case for removing password protection from PDFs. If the password is known, a free version of the PDF can be created easily and very quickly. |
 | **Licence** | Apache License Version 2.0 |
+| **COPTR** | https://coptr.digipres.org/Qpdf |
 | **Source** | http://qpdf.sourceforge.net/ or https://github.com/qpdf/qpdf |
