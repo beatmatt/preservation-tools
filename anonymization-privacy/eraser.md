@@ -3,10 +3,10 @@
 | Category | Evaluation |
 | --- | --- |
 | **Description**  | Residue-free deletion of data on data carriers. |
-| **Operation System**  | ...  |
+| **Operation System**  | Windows  |
 | **Application**  | Deletion  |
 | **File Format** | - |
 | **Experience** | ... |
-| **Licence** | ... |
+| **Licence** | Proprietary but free of charge |
 | **COPTR** | https://coptr.digipres.org/Eraser |
 | **Source** | https://eraser.heidi.ie/ |
