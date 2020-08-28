@@ -7,5 +7,5 @@
 | **File Format** | PDF |
 | **Experience** | From version 8, it is possible to check documents for PDF/A conformity. In version 9 and higher, conversions are also possible. |
 | **Licence** | Requires a license |
-| **COPTR3** | - |
+| **COPTR** | - |
 | **Source** | https://acrobat.adobe.com/ch/de/acrobat/acrobat-pro.html |
