@@ -2,10 +2,10 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
-| **Operation System**  | ...  |
-| **Application**  | ZIP capsule creation |
-| **File Format** | ... |
+| **Description** | Generates ZIP-Containers |
+| **Operation System** | Windows, Mac, Linux |
+| **File Format** | - |
 | **Experience** | ... |
-| **Licence** | ... |
-| **Source** | ... |
+| **Licence** | Shareware |
+| **COPTR** | - |
+| **Source** | https://www.winrar.de/index.php |
