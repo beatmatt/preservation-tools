@@ -2,9 +2,8 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | Secure encryption of large amounts of files. |
-| **Operation System**  | Windows, Mac, Unix  |
-| **Application**  | Encryption  |
+| **Description** | Secure encryption of large amounts of files. |
+| **Operation System** | Windows, Mac, Linux  |
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Open Source |
