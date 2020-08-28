@@ -5,7 +5,8 @@
 | **Description**  | Secure encryption of large amounts of files. |
 | **Operation System**  | Windows, Mac, Unix  |
 | **Application**  | Encryption  |
-| **File Format** | ... |
+| **File Format** | - |
 | **Experience** | ... |
-| **Licence** | "Free" |
+| **Licence** | Open Source |
+| **COPTR** | https://coptr.digipres.org/VeraCrypt |
 | **Source** | https://archive.codeplex.com/?p=veracrypt |
