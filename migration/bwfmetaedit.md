@@ -2,9 +2,8 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | This tool allows the extraction, validation, editing, and embedding of metadata in Broadcast WAVE Format (BWF) files. |
-| **Operation System**  | Windows, Mac, Linux  |
-| **Application**  | Analyzing, Metadata editing |
+| **Description** | This tool allows the extraction, validation, editing, and embedding of metadata in Broadcast WAVE Format (BWF) files. |
+| **Operation System** | Windows, Mac, Linux  |
 | **File Format** | BWF |
 | **Experience** | ... |
 | **Licence** | Public Domain |
