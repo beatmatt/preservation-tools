@@ -4,7 +4,6 @@
 | --- | --- |
 | **Description**  | This tool scans images for damages, and shows the results and files. |
 | **Operation System**  | Windows, Mac, Linux  |
-| **Application**  | Image validation  |
 | **File Format** | PNG, BMP, GIF, JPG |
 | **Experience** | Also integrated in the KOST-Val tool. |
 | **Licence** | GPL v.3|
