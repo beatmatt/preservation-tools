@@ -4,7 +4,6 @@
 | --- | --- |
 | **Description** | The tool allows it to identify, filter, and assess all manner of video errors and anomalies. The tool is flexible, comes with a great variety of viewing options, and creates reports. |
 | **Operation System** | Windows, Mac, Linux |
-| **Application** | Analyzing |
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | GPL v.3 |
