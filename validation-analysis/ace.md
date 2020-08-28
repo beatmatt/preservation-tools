@@ -7,5 +7,5 @@
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Apache License |
-| **COPTR3** | https://coptr.digipres.org/ACE_(Audit_Control_Environment) |
+| **COPTR** | https://coptr.digipres.org/ACE_(Audit_Control_Environment) |
 | **Source** | https://wiki.umiacs.umd.edu/adapt/index.php/Ace:Main |
