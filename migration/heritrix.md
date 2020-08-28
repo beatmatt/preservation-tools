@@ -7,5 +7,6 @@
 | **Application**  | Web archiving  |
 | **File Format** | ARC, WARC |
 | **Experience** | ... |
-| **Licence** | Open Source |
-| **Source** | http://crawler.archive.org/index.html |
+| **Licence** | GNU GPL v2.1 |
+| **COPTR** | https://coptr.digipres.org/Heritrix |
+| **Source** | http://crawler.archive.org/ |
