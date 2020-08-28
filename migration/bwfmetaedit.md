@@ -2,10 +2,11 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
-| **Operation System**  | ...  |
-| **Application**  | ... |
-| **File Format** | ... |
+| **Description**  | This tool allows the extraction, validation, editing, and embedding of metadata in Broadcast WAVE Format (BWF) files. |
+| **Operation System**  | Windows, Mac, Linux  |
+| **Application**  | Analyzing, Metadata editing |
+| **File Format** | BWF |
 | **Experience** | ... |
-| **Licence** | Open Source |
+| **Licence** | Public Domain |
+| **COPTR** | https://coptr.digipres.org/BWF_MetaEdit |
 | **Source** | https://mediaarea.net/BWFMetaEdit |
