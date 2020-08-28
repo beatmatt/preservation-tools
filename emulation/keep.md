@@ -2,9 +2,8 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | A modular emulation framework developed as part of the KEEP project, which supports emulators including [Dioscuri](./dioscuri.md), Qemu, VICE, UAE, BeebEm, JavaCPC and Thomson. |
-| **Operation System**  | Windows, Mac, Linux |
-| **Application**  | Emulation |
+| **Description** | A modular emulation framework developed as part of the KEEP project, which supports emulators including [Dioscuri](./dioscuri.md), Qemu, VICE, UAE, BeebEm, JavaCPC and Thomson. |
+| **Operation System** | Windows, Mac, Linux |
 | **File Format** | - |
 | **Experience** | No further development sind 2012. |
 | **Licence** | Apache License v.2 |
