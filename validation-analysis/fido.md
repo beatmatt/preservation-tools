@@ -2,8 +2,8 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | Format Identification for Digital Objects (fido) is a command line tool for identifying the file formats of digital objects. FIDO is designed for easy integration into automated workflows. |
-| **Operation System**  | Windows, Mac, Linux  |
+| **Description** | Format Identification for Digital Objects (fido) is a command line tool for identifying the file formats of digital objects. FIDO is designed for easy integration into automated workflows. |
+| **Operation System** | Windows, Mac, Linux  |
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Apache Licence v.2 |
