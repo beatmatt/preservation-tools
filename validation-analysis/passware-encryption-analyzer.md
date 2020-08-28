@@ -7,4 +7,5 @@
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Freeware |
+| **COPTR** | - |
 | **Source** | https://www.passware.com/encryption-analyzer/ |
