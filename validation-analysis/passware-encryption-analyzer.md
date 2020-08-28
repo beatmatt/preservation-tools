@@ -4,8 +4,7 @@
 | --- | --- |
 | **Description** | Passware Encryption Analyzer is a free tool that scans a system to detect password-protected or encrypted documents, archives (also TrueCrypt, Bitlocker etc.), and other types of files, and delivers a detailed report. |
 | **Operation/System** | Windows |
-| **Application** | Analyzation, encryption |
 | **File Format** | - |
-| **Experience** | None |
-| **Licence** | Free |
+| **Experience** | ... |
+| **Licence** | Freeware |
 | **Source** | https://www.passware.com/encryption-analyzer/ |
