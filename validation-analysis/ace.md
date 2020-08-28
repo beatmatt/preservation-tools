@@ -4,7 +4,6 @@
 | --- | --- |
 | **Description**  | Set of tools, which helps to ensure the integrity of long term archives using rigorous cryptographic techniques. It allows individualized policies. |
 | **Operation System**  | Windows, Mac, Linux |
-| **Application**  | Integrity check |
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Apache License |
