@@ -2,9 +2,9 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
+| **Description**  | Application for building and sharing of containerized applications. |
 | **Operation System**  | Windows, Mac |
-| **File Format** | ... |
+| **File Format** | - |
 | **Experience** | ... |
 | **Licence** | ... |
 | **COPTR** | - |
