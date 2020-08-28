@@ -2,9 +2,8 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | A prototype tool for searching metadata extracted from forensic disk images. Used in conjunction with fiwalk, part of [AFF Library and Toolkit](./aff.md). |
-| **Operation System**  | Mac, Linux |
-| **Application**  | Analyzing |
+| **Description** | A prototype tool for searching metadata extracted from forensic disk images. Used in conjunction with fiwalk, part of [AFF Library and Toolkit](./aff.md). |
+| **Operation System** | Mac, Linux |
 | **File Format** | - |
 | **Experience** | No further development since 2013. |
 | **Licence** | Apache License v2 |
