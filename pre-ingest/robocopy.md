@@ -6,6 +6,6 @@
 | **Operation System** | Windows |
 | **File Format** | - |
 | **Experience** | Does not abort in case of copy errors and documents the success of the process in a log file. |
-| **Licence** | - |
+| **Licence** | ... |
 | **COPTR** | - |
 | **Source** | https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy |
