@@ -4,7 +4,6 @@
 | --- | --- |
 | **Description**  | Generates and verifies MD5 checksums. |
 | **Operation System** | Windows |
-| **Application** | Checksum |
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Open Source |
