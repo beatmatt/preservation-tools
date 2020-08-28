@@ -8,4 +8,5 @@
 | **File Format** | Oracle, Microsoft SQL Server, MySQL, DB/2, H2, Microsoft Access |
 | **Experience** | ... |
 | **Licence** | Open Source |
+| **COPTR** | https://coptr.digipres.org/SIARD_Suite |
 | **Source** | https://www.bar.admin.ch/bar/de/home/archivierung/tools---hilfsmittel/siard-suite.html or https://github.com/sfa-siard |
