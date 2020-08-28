@@ -2,10 +2,10 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
-| **Operation System**  | ...  |
-| **Application**  | Database |
+| **Description** | ... |
+| **Operation System** | ...  |
 | **File Format** | SIARD |
 | **Experience** | ... |
 | **Licence** | ... |
+| **COPTR** | - |
 | **Source** | http://www.database-preservation.com/ or https://github.com/keeps/db-preservation-toolkit |
