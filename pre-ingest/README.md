@@ -20,6 +20,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 - [filewrangler](./filewrangler.md)
 - [Manifest Maker](./manifestmaker.md)
 - [Omniflop Floppy Disk Transfer](./omniflop.md)
+- [Pre-Ingest Tool](./preingesttool.md)
 - [Robocopy](./robocopy.md)
 - [RODA-in](./rodain.md)
 - [TreeSize Professional](./treesizeprofessional.md)
