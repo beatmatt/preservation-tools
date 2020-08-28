@@ -8,4 +8,5 @@
 | **File Format** | ... |
 | **Experience** | ... |
 | **Licence** | ... |
+| **COPTR** | https://coptr.digipres.org/Dioscuri |
 | **Source** | https://dioscuri.sourceforge.net |
