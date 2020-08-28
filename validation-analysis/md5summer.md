@@ -2,10 +2,11 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | ... |
+| **Description**  | Generates and verifies MD5 checksums. |
 | **Operation System** | Windows |
-| **Application** | ... |
-| **File Format** | ... |
+| **Application** | Checksum |
+| **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Open Source |
+| **COPTR** | https://coptr.digipres.org/Md5summer |
 | **Source** | http://www.md5summer.org/ |
