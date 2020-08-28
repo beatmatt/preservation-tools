@@ -2,9 +2,8 @@
 
 | Category | Evaluation |
 | --- | --- |
-| **Description**  | Residue-free deletion of data on data carriers. |
-| **Operation System**  | Windows  |
-| **Application**  | Deletion  |
+| **Description** | Residue-free deletion of data on data carriers. |
+| **Operation System** | Windows |
 | **File Format** | - |
 | **Experience** | ... |
 | **Licence** | Proprietary but free of charge |
