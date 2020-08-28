@@ -7,5 +7,6 @@
 | **Application**  | Video migration  |
 | **File Format** | See description |
 | **Experience** | ... |
-| **Licence** | Open Source |
+| **Licence** | GPL |
+| **COPTR** | https://coptr.digipres.org/HandBrake |
 | **Source** | 	https://handbrake.fr/ |
