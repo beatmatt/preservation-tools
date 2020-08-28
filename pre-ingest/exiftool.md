@@ -6,6 +6,7 @@
 | **Operation System**  | Windows, Mac, Unix  |
 | **Application**  | Extraction of metadata  |
 | **File Format** | - |
-| **Experience** | None |
-| **Licence** | Free |
+| **Experience** | ... |
+| **Licence** | GNU GPL |
+| **COPTR** | https://coptr.digipres.org/ExifTool |
 | **Source** | https://www.sno.phy.queensu.ca/~phil/exiftool/ bzw. https://www.sno.phy.queensu.ca/~phil/exiftool/faq.html |
