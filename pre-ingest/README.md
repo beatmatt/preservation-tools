@@ -23,6 +23,7 @@ Tools for copying and detaching data from data carriers (incl. mounting and rela
 - [Pre-Ingest Tool](./preingesttool.md)
 - [Robocopy](./robocopy.md)
 - [RODA-in](./rodain.md)
+- [Total Commander](./totalcommander.md)
 - [TreeSize Professional](./treesizeprofessional.md)
 - [WinCatalog](./wincatalog.md)
 - [WinRAR](./winrar.md)
